@@ -2,6 +2,4 @@
   <img src="Manya G Karle (1).gif" width="100%">
 </p>
 
-# Hi there 👋
-
-I'm Manya — Software Developer | AI/ML Enthusiast
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Software+Developer;AI/ML+Enthusiast;Building+Intelligent+Applications)
