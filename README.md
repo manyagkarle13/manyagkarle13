@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
-Hi I'm Manya G Karle 
-I'm a Information Science student passionate about building practical software and exploring Artificial Intelligence.
+## Hi there 👋
 
+Hi, I'm Manya G Karle, an Information Science student and aspiring Software Developer exploring Artificial Intelligence and Machine Learning.
 Currently focusing on:
 - Developing real-world web applications
 - Learning Machine Learning fundamentals
