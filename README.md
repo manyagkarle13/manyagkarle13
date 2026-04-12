@@ -33,6 +33,7 @@ I enjoy solving problems, deploying projects, and continuously improving my tech
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,html,css,tailwind,django,postgres,mysql,sqlite,aws,git,github,vscode,figma" />
 </p>
+
 ## 🎯 Current Focus
 
 - Artificial Intelligence and Machine Learning
