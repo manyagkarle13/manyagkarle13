@@ -47,5 +47,3 @@ I enjoy solving problems, deploying projects, and continuously improving my tech
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyagkarle13&layout=compact" />
 </p>
-
-
