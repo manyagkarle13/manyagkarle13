@@ -30,11 +30,13 @@ I enjoy solving problems, deploying projects, and continuously improving my tech
 
 ## 🧠 Tech Stack I Use
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,django,postgres,mysql" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,html,css,tailwind,django,postgres,mysql,sqlite,aws,git,github,vscode,figma" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,aws,git,github,vscode,figma" />
+</p>
 
 ## ⚡ Stats ⚡
 
