@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Manya G Karle (1).gif" width="50%" hight="50%" >
+  <img src="Manya G Karle (1).gif" width="50%" height="50%" >
 </p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Software+Developer;AI/ML+Enthusiast;Building+Intelligent+Applications)
