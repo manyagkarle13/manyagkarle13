@@ -15,3 +15,9 @@ Currently focusing on:
 - Transitioning from Full Stack Development into AI-powered systems
 
 I enjoy solving problems, deploying projects, and continuously improving my technical skills.
+
+## 🧠 Tech Stack I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,git,github,postgresql,mysql,vscode" />
+</p>
