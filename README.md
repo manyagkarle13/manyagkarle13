@@ -30,15 +30,20 @@ I enjoy solving problems, deploying projects, and continuously improving my tech
 
 ## 🧠 Tech Stack I Use
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,html,css,tailwind,django,postgres,mysql,sqlite,aws,git,github,vscode,figma" />
+
+</div>
+
+## ⚡ Stats ⚡
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,html,css,tailwind,django,postgres,mysql,sqlite,aws,git,github,vscode,figma" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manyagkarle13" />
 </p>
 
-## 🎯 Current Focus
-
-- Artificial Intelligence and Machine Learning
-- Backend system development
-- Building scalable web applications
-- Real-world project deployment
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyagkarle13&layout=compact" />
+</p>
 
 
