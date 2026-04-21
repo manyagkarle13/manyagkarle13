@@ -31,7 +31,7 @@ I enjoy solving problems, deploying projects, and continuously improving my tech
 ## 🧠 Tech Stack I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,django,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,django,postgres,mysql,nosql,mangodb" />
 </p>
 
 <p align="center">
